@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "jpDRTIWGa0c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\xemer\\source\\repos\\ConsoleApp9\\ConsoleApp9\\ConsoleApp9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xemer\\.nuget\\packages\\clickabletransparentoverlay\\6.2.1\\clickabletransparentoverlay.6.2.1.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\imgui.net\\1.89.7.1\\imgui.net.1.89.7.1.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\sharpgen.runtime\\2.0.0-beta.11\\sharpgen.runtime.2.0.0-beta.11.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\sharpgen.runtime.com\\2.0.0-beta.11\\sharpgen.runtime.com.2.0.0-beta.11.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\sixlabors.imagesharp\\3.1.4\\sixlabors.imagesharp.3.1.4.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\system.diagnostics.performancecounter\\8.0.0\\system.diagnostics.performancecounter.8.0.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\system.serviceprocess.servicecontroller\\8.0.0\\system.serviceprocess.servicecontroller.8.0.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\vortice.d3dcompiler\\2.2.0\\vortice.d3dcompiler.2.2.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\vortice.direct3d11\\2.2.0\\vortice.direct3d11.2.2.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\vortice.directx\\2.2.0\\vortice.directx.2.2.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\vortice.dxgi\\2.2.0\\vortice.dxgi.2.2.0.nupkg.sha512",
+    "C:\\Users\\xemer\\.nuget\\packages\\vortice.mathematics\\1.4.22\\vortice.mathematics.1.4.22.nupkg.sha512"
+  ],
+  "logs": []
+}
